@@ -30,12 +30,12 @@ HolyDebug is a powerful runtime debugger and introspection tool for Python appli
 1. Clone the repository:
 ```bash
 git clone https://github.com/wowgirl88/holydbg.git
-cd holydebug
+cd holydbg
 ```
 
 2. Install Python dependencies:
 ```bash
-pip install psutil prompt_toolkit pyinjector
+pip install -r requirements.txt
 ```
 
 3. Compile the injector module:
