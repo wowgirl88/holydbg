@@ -23,7 +23,7 @@ BANNER = """
 By Creative Name Here
 
 my github: wowgirl88
-my Telegram: @onehourlater
+my Telegram: @slvtb0y
 
 Started scanning...
 """
@@ -168,7 +168,7 @@ class HolyDebug:
         print("[holy-dbg.Server] IP: 127.1.4.88")
         print(f"[holy-dbg.Server] Port: 1161")
         print("[holy-debug] by Creative Name Here")
-        print("[TELEGRAM] onehourlater.t.me")
+        print("[TELEGRAM] slvtb0y.t.me")
         print(
             f"[holy-dbg.Server] Connected to process {self.pid}. Type 'help' for commands"
         )
@@ -214,7 +214,7 @@ class HolyDebug:
                     print("[holy-dbg.Server] IP: 127.1.4.88")
                     print(f"[holy-dbg.Server] Port: 1161")
                     print("[holy-debug] by Creative Name Here")
-                    print("[TELEGRAM] onehourlater.t.me")
+                    print("[TELEGRAM] slvtb0y.t.me")
                     continue
                 if cmd == "export":
                     if not args:
